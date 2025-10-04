@@ -30,6 +30,7 @@ The application features a clean user interface with engaging visual and audio f
 
 (Instructions on how to build and run the project - Add details here based on your project's setup, e.g., how to clone, open in Android Studio, and run)
 
+<<<<<<< HEAD
 ## Contributing
 
 (Information on how others can contribute - Add guidelines for contributions if you welcome them)
@@ -40,4 +41,6 @@ The application features a clean user interface with engaging visual and audio f
 
 ## Acknowledgements
 
-(Mention any libraries, resources, or individuals you'd like to thank) 
+(Mention any libraries, resources, or individuals you'd like to thank)
+=======
+>>>>>>> ca4bba89240c8ea27742e72d6fe6d5154da45583
